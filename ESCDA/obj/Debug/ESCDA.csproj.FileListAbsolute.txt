@@ -1,0 +1,9 @@
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\bin\Debug\ESCDA.exe.config
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\bin\Debug\ESCDA.exe
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\bin\Debug\ESCDA.pdb
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\obj\Debug\ESCDA.csprojAssemblyReference.cache
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\obj\Debug\ESCDA.Properties.Resources.resources
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\obj\Debug\ESCDA.csproj.GenerateResource.cache
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\obj\Debug\ESCDA.exe
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\obj\Debug\ESCDA.pdb
+C:\Users\Mr Tokin\source\repos\ESCDA\ESCDA\obj\Debug\ESCDA.Form1.resources
