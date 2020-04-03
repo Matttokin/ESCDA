@@ -7,9 +7,9 @@ namespace ESCDA
     public partial class Form1 : Form
     {
         private int q = 19;
-        private int p = 17;
-        private int A = 2;
-        private int B = 2;
+        private int p = 19;
+        private int A = 0;
+        private int B = -4;
         private int[] P;
         private int[] Q;
         private int x;
@@ -22,13 +22,17 @@ namespace ESCDA
         private int[] elCurve()
         {
             int x = 0;
+            int tryI = 0;
             //пока-что берем ближайшую точку , позже сделаю рандом
             while (true)
             {
-                double y = Math.Sqrt(mod((int)(Math.Pow(x, 3) + A * x + B) , p));
+                double y = Math.Sqrt(mod((int)(Math.Pow(x, 3) + A * x + B) , q));
                 if (y == Math.Truncate(y))
                 {
                     return new int[2] { x, (int)y };
+                } else
+                {
+                    tryI++;
                 }
                 x++;
             }
